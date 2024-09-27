@@ -1,7 +1,7 @@
 body {
-  background-color: lightblue; /* Hintergrundfarbe der gesamten Seite */
+  background-color: grey; /* Hintergrundfarbe der gesamten Seite */
 }
 
 h1 {
-  color: blue; /* Textfarbe der Überschrift */
+  color: white; /* Textfarbe der Überschrift */
 }
