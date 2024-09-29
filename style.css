@@ -1,29 +1,29 @@
-ol {
-  margin-left: -40px;
-  margin-top: -20px;
-  list-style-position: inside;
+.red {
+    color: red;
 }
 
-/* Write your CSS below, don't change the rules above. */
-
-p {
-  color:red
+.blue {
+    color: yellow;
 }
 
-.note {
-  font-size: 20px;
+.orange {
+    color: orange;
 }
 
-#id-selector-demo {
-  color: green;
+.green {
+    color: green;
 }
 
-li[value="4"] {
-  color: blue;
+.yellow {
+    color: yellow;
 }
 
 
-* {
-  text-align: center;
-  font-family: 'Times New Roman', Times, serif;
+h2[class="color-title"] {
+    font-weight: normal;
+}
+
+img {
+    height: 200px;
+    width: 200px;
 }
