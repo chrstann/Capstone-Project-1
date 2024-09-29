@@ -3,7 +3,7 @@
 }
 
 #blue {
-    color: yellow;
+    color: blue;
 }
 
 #orange {
@@ -26,4 +26,5 @@
 img {
     height: 200px;
     width: 200px;
+    border-radius: 10px;
 }
