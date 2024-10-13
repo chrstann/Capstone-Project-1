@@ -4,4 +4,11 @@ body {
 
 h2 {
     background-color: #ECDFCC;
+    text-align: center;
+}
+
+.projectsUDEMY {
+    background-color: #A5B68D;
+    height: 50px;
+    width: 50px;
 }
