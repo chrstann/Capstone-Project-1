@@ -1,3 +1,13 @@
+/* hier die Farben
+
+green: A5B68D
+beige: ECDFCC
+hellbeige: FCFAEE
+orange: DA8359
+https://colorhunt.co/palette/a5b68decdfccfcfaeeda8359
+
+*/
+
 body {
     background-color: #FCFAEE;
 }
@@ -8,7 +18,12 @@ h2 {
 }
 
 .projectsUDEMY {
+    display: flex;
+}
+
+.cardPlayground {
     background-color: #A5B68D;
-    height: 50px;
-    width: 50px;
+    border: 5px solid #FCFAEE;
+    height: 200px;
+    flex: 1;
 }
